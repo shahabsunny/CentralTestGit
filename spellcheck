@@ -1,0 +1,5 @@
+<!-- for inputs -->
+<input type="text" spellcheck="false">
+
+<!-- for textareas -->
+<textarea spellcheck="false"></textarea>
